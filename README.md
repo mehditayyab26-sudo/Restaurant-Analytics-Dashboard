@@ -41,7 +41,7 @@ The main objective of this project is to practice **data analysis and dashboard 
 
 ## 📸 Dashboard Preview
 
-![Restaurant Analytics Dashboard](Dashboard.png)
+![Restaurant Analytics Dashboard](Restuarant_Sales_Dashboard.png)
 
 ## 💡 Skills Demonstrated
 
